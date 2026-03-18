@@ -1,5 +1,5 @@
 # React2Shell Scanner - Security Write-Up
-
+![Screenshot](img/screenshot.png)
 # Overview
 React2Shell Scanner is a static analysis tool that detects Remote Code Execution (RCE) vulnerabilities in React applications.
 
